@@ -2269,4 +2269,4 @@ if (message.content.startsWith("W!new")) {
  
 });
 
-client.login(process.env.Wx1_TOKEN)
+client.login("NzUxNjY3NzIzOTQzMTQ5NTk5.X1MbHg.QL5Veoxels8tzeW64W-PhsI5OnY")
